@@ -1,0 +1,5 @@
+{
+  "name": "PharmaGuard AI",
+  "description": "AI-powered pharmacogenomic analysis tool that predicts personalized drug risks from VCF patient data using CPIC guidelines.",
+  "requestFramePermissions": []
+}
