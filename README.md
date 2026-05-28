@@ -654,16 +654,6 @@ PW_HACKATHON/
 └── README.md                       # This file
 ```
 
----
-
-## 👥 Team Members
-
-| Name |
-|---|
-| **[Nisha Rathour]** | 
-| **[Rudra Pratap Singh]** | 
-| **[Ritesh Singh]** |
-| **[Sameer Maurya]** | 
 
 > Built for **RIFT 2026 Hackathon** — GenRx (PharmaGuard Problem Statement)  
 > Submission hashtags: `#RIFT2026`
@@ -673,7 +663,6 @@ PW_HACKATHON/
 This project is licensed under the **MIT License**.
 
 ---
-
 <div align="center">
 
 **GenRx — Built with ❤️ for Precision Medicine at RIFT Hackathon 2026**
